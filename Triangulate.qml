@@ -1,3 +1,6 @@
+// Вход: input массив координат
+// Выход: output массив индексов треугольников 
+
 Item {
   property var input
   property var output: calc()
